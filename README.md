@@ -1,2 +1,2 @@
-# python-skeleton-2019
-Python skeleton bot for Pokerbots 2019
+# PokerBots-2019
+Python bot for Pokerbots 2019
